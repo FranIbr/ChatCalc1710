@@ -1,6 +1,6 @@
 <h1 align="center">ChatCalc1710</h1>
 <p align="center">
-<img src="images/icon.png" width="128"/>
+<img src="src/main/resources/assets/chatcalc1710/icon.png" width="128"/>
 </p>
 <div align="center">
 Adds an ingame calculator for Minecraft 1.7.10 (Forge). Client side only.
